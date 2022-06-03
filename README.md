@@ -26,3 +26,7 @@ Features:
     ```
     http://wordpress.docksal
     ```
+    
+## Install phpcs
+
+1. Follow the instructions here: https://docs.docksal.io/tools/phpcs/
