@@ -1,3 +1,5 @@
 # Exclude local configuration overrides
 docksal-local.env
 docksal-local.yml
+**/.DS_Store
+.DS_Store
