@@ -2,7 +2,7 @@
 
 Features:
 
-- Vanilla WordPress 5
+- Vanilla WordPress 6.4
 
 ## Setup instructions
 
